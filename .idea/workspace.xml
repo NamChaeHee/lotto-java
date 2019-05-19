@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Batch/pg-bizapi-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-card-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-cash-receipt-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-payment-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-reseller-payment-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-settlement-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-settlement-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-statistics-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Batch/pg-validation-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Quattro/quattro-gate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../apollo-payment-method-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kard-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../meeting-room" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-adaptor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-clear-balance-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-kakao-admin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-partner-admin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-partner-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-partner-biz-admin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-partner-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-payment-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-payment-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-auth-deputy-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-migration-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-payment-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-reseller-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-statistics-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pg-zero-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sample-application" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ui-maker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zuul-2.1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="327" />
+    <option name="y" value="-1867" />
+    <option name="width" value="2119" />
+    <option name="height" value="1867" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+</project>
